@@ -1,7 +1,7 @@
 # rsschool-cv
----
+----
 # Kondratiuk Svitlana
----
+----
 ## Contacts
 *	GitHub: Svitlanka-K
 *	E-mail: Svitlanka.K@i.ua
@@ -12,7 +12,7 @@ but I want to change my profession,
 so I came to study JavaScript / Front-end at RS School courses.***
 ---
 ## Education
-***Dnipro National University of Railway Transport***
+***Dnipro National University of Railway Transport (DIIT)***
 ---
 ## Skills
 * HTML (basic)
