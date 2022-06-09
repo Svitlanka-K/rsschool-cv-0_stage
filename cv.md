@@ -1,7 +1,7 @@
 # rsschool-cv
-----
+---
 # Kondratiuk Svitlana
-----
+---
 ## Contacts
 *	GitHub: Svitlanka-K
 *	E-mail: Svitlanka.K@i.ua
